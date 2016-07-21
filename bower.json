@@ -1,7 +1,7 @@
 {
-  "name": "meanjs",
-  "description": "Fullstack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
-  "homepage": "http://meanjs.org/",
+  "name": "lua",
+  "description": "linkupAdmin lean and mean",
+  "homepage": "/",
   "license": "MIT",
   "dependencies": {
     "angular": "~1.5.0",
